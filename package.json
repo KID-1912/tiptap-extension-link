@@ -1,0 +1,24 @@
+{
+  "name": "tiptap-extension-link",
+  "version": "1.0.0",
+  "description": "A link extension with support for custom HTML attributes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiptap",
+    "extension",
+    "link"
+  ],
+  "author": "kid-1912",
+  "homepage": "https://github.com/KID-1912/tiptap-extension-link",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/tiptap-extension-link.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@tiptap/extension-link": "^2.2.0"
+  }
+}
